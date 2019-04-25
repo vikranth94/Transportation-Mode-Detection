@@ -1,7 +1,8 @@
 # Folders
 Raw_data/
+Extracted_data/
 
-
+*.hdf5
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
